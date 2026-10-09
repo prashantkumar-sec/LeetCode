@@ -125,52 +125,7 @@ The repository is organized primarily by topic:
 ```text
 LeetCode/
 │
-├── Arrays/
-│   ├── Two_Sum.py
-│   ├── Best_Time_to_Buy_and_Sell_Stock.py
-│   └── ...
-│
-├── Strings/
-│   ├── Valid_Anagram.py
-│   └── ...
-│
-├── Hashing/
-│   └── ...
-│
-├── Two_Pointers/
-│   └── ...
-│
-├── Sliding_Window/
-│   └── ...
-│
-├── Binary_Search/
-│   └── ...
-│
-├── Linked_List/
-│   └── ...
-│
-├── Stack/
-│   └── ...
-│
-├── Queue/
-│   └── ...
-│
-├── Trees/
-│   └── ...
-│
-├── Graphs/
-│   └── ...
-│
-├── Heap/
-│   └── ...
-│
-├── Greedy/
-│   └── ...
-│
-├── Backtracking/
-│   └── ...
-│
-├── Dynamic_Programming/
-│   └── ...
-│
+├── Easy/
+├── Medium/
+├── Hard/
 └── README.md
