@@ -37,6 +37,14 @@ I created this repository to maintain an organized record of my LeetCode practic
 
 ---
 
+## Progress
+
+| # | Title | Difficulty | Topic | Solution |
+|---|-------|-----------|-------|----------|
+| 217 | Contains Duplicate | Easy | Array, Hash Set | [Python](Easy/001-Contains-Duplicate.py) |
+
+---
+
 ## 🛠️ Technology
 
 | Technology | Usage |
