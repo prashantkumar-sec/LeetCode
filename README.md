@@ -42,6 +42,7 @@ I created this repository to maintain an organized record of my LeetCode practic
 | # | Title | Difficulty | Topic | Solution |
 |---|-------|-----------|-------|----------|
 | 217 | Contains Duplicate | Easy | Array, Hash Set | [Python](Easy/001-Contains-Duplicate.py) |
+| 704 | Binary Search | Easy | Array, Binary Search | [Python](Easy/002-Binary-Search.py) |
 
 ---
 
