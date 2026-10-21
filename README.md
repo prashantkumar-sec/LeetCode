@@ -43,6 +43,13 @@ I created this repository to maintain an organized record of my LeetCode practic
 |---|-------|-----------|-------|----------|
 | 217 | Contains Duplicate | Easy | Array, Hash Set | [Python](Easy/001-Contains-Duplicate.py) |
 | 704 | Binary Search | Easy | Array, Binary Search | [Python](Easy/002-Binary-Search.py) |
+| 9 | Palindrome Number | Easy | Math, String | [Python](Easy/003-Palindrome-Number.py) |
+| 136 | Single Number | Easy | Array, Bit Manipulation | [Python](Easy/004-Single-Number.py) |
+| 1512 | Number of Good Pairs | Easy | Array, Hash Map | [Python](Easy/005-Number-of-Good-Pairs.py) |
+| 283 | Move Zeroes | Easy | Array, Two Pointers | [Python](Easy/006-Move-Zeroes.py) |
+| 125 | Valid Palindrome | Easy | String, Two Pointers | [Python](Easy/007-Valid-Palindrome.py) |
+| 344 | Reverse String | Easy | String, Two Pointers | [Python](Easy/008-Reverse-String.py) |
+| 509 | Fibonacci Number | Easy | Math, Dynamic Programming | [Python](Easy/009-Fibonacci-Number.py) |
 
 ---
 
