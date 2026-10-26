@@ -46,6 +46,13 @@
 # INSIGHTS GAIN FROM THIS QUESTION: (ANY NOTES, IDEAS, NEW TRICKS / THIS WILL HELP IN QUICK REVISION)
 # __________________________________________________
 # 
+# 1. Output position pehle se pata hai: positives -> even index, negatives -> odd index.
+#    Isliye alag-alag lists banane ki zaroorat nahi (wo bhi O(n) hai, par extra space aur 2 passes).
+# 2. Two-pointer fill technique: ek pointer har category ke liye, step size 2.
+# 3. Single left-to-right pass se relative order automatically preserve hota hai (stable placement).
+# 4. Pattern yaad rakho: "alternating placement" / "fixed slot allocation" jab bhi
+#    output ka structure input se pehle decide ho.
+# 5. Time: O(n), Space: O(n) (output array; problem mein in-place required nahi hai).
 # __________________________________________________
 
 class Solution:
